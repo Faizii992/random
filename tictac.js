@@ -1,6 +1,6 @@
 $("document").ready(()=>{
 let options=document.getElementsByClassName("option");
-
+//some random change
 let ans=[
 ["0","1","2"],
 ["2","1","0"],
